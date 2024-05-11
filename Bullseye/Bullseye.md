@@ -213,7 +213,7 @@ At the end of the game the incident captain should walk through the incident. Th
 
 *The attacker successfully impersonated a third-party vendor's employee, gaining access to their systems and collecting legitimate user credentials. Using their systems to navigate into other organization's environments, they navigated laterally through a client's portal and systems, installing malicious services on their POS system to exfiltrate cardholder data.*
 
-This is similar to what we know about the Target breach where millions of credit and debit card information was stolen. Target's POS systems were segmented record. This system should be limited to specific queries, however, the vulnerability allows attackers to make additional requests to the primary databases that allowed them to capture the data of every customer in the Equifax database. 
+This is similar to what we know about the Target breach where millions of credit and debit card information was stolen.  
 
 ## Are you ready?
 
