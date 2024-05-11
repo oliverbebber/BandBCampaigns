@@ -15,7 +15,7 @@ Let us know what you think! And if somehow you arrived here having never heard o
 ## Core
 
 ### The Call Came from Inside the Network
-*A scneario based on the Ubiquiti Breach. Is your team ready for an insider threat attempting to extort you that also happens to be on your Incident Response Team?*
+*A scenario based on the Ubiquiti Breach. Is your team ready for an insider threat attempting to extort you that also happens to be on your Incident Response Team?*
 
 [Scenario Guide](https://github.com/AntiSyphon/BandBCampaigns/blob/main/Call%20From%20Inside%20the%20Network/Call%20From%20Inside%20the%20Network.md)
 
@@ -40,3 +40,10 @@ Colonial Pipeline
 
 ### You Spin Me Right Round
 Stuxnet
+
+## Red Canary
+
+### Bullseye
+*A scenario based on the Target Breach. Are you prepared to safeguard your organization's data and reputation in the face of relentless cybercriminals?*
+
+[Scenario Guide](https://github.com/oliverbebber/BandBCampaigns/blob/main/Bullseye/Bullseye.md)
