@@ -3,9 +3,9 @@ Backdoors & Breaches was created at Black Hills Information Security to facilita
 
 Those questions were the birth of B&B: Campaigns. 
 
-Backdoors & Breaches: Campaigns are guides designed to educate players about noteworthy security breaches while discussing if their organization is ready to defend against an attack like the one presented. Each campaign guide enables the Incident Master to place specific cards into the attack chain that most closely represent a well-known breach. The Incident Master will be provided with Procedure Cards to use for the written procedures. The guide will also provide examples to help explain why a card that should succeed would fail. Finally, the story and background for the game is presented with references to help the Incident Capatin gain context before play and for the players to read afterward. 
+Backdoors & Breaches: Campaigns are guides designed to educate players about noteworthy security breaches while discussing if their organization is ready to defend against an attack like the one presented. Each campaign guide enables the Incident Master to place specific cards into the attack chain that most closely represent a well-known breach. The Incident Master will be provided with Procedure Cards to use for the written procedures. The guide will also provide examples to help explain why a card that should succeed would fail. Finally, the story and background for the game is presented with references to help the Incident Captain gain context before play and for the players to read afterward. 
 
-Each campaign is designed to make Tabletop Exercises even easier to educate, train, and prepare for repsponding to Incidents. 
+Each campaign is designed to make Tabletop Exercises even easier to educate, train, and prepare for responding to Incidents. 
 
 Got an idea for a campaign? Great! Use the template located here to create a new campaign. Once your ready make a pull request in GitHub. That's it! We'll review it and if everything looks good we will publish it here to share with others. (with credit of course!)
 
